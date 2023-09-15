@@ -1,0 +1,124 @@
+Page 1 in category Adolescentes from WIKI-HOW-ES... NUM_ARTICLES: 113
+Page 2 in category Adolescentes from WIKI-HOW-ES... NUM_ARTICLES: 101
+>>> Total: 214
+
+Page 1 in category Arte-y-entretenimiento from WIKI-HOW-ES... NUM_ARTICLES: 126
+Page 2 in category Arte-y-entretenimiento from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Arte-y-entretenimiento from WIKI-HOW-ES... NUM_ARTICLES: 51
+>>> Total: 279
+
+Page 1 in category Automóviles-y-otros-vehículos from WIKI-HOW-ES... NUM_ARTICLES: 104
+>>> Total: 104
+
+Page 1 in category Carreras-y-educación from WIKI-HOW-ES... NUM_ARTICLES: 149
+Page 2 in category Carreras-y-educación from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Carreras-y-educación from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Carreras-y-educación from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Carreras-y-educación from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 6 in category Carreras-y-educación from WIKI-HOW-ES... NUM_ARTICLES: 60
+>>> Total: 617
+
+Page 1 in category Comida-y-diversión from WIKI-HOW-ES... NUM_ARTICLES: 134
+Page 2 in category Comida-y-diversión from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Comida-y-diversión from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Comida-y-diversión from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Comida-y-diversión from WIKI-HOW-ES... NUM_ARTICLES: 48
+>>> Total: 488
+
+Page 1 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 160
+Page 2 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 6 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 7 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 8 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 9 in category Computadoras-y-electrónica from WIKI-HOW-ES... NUM_ARTICLES: 4
+>>> Total: 878
+
+Page 1 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 152
+Page 2 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 6 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 7 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 8 in category Cuidado-y-estilo-personal from WIKI-HOW-ES... NUM_ARTICLES: 31
+>>> Total: 795
+
+Page 1 in category Deportes from WIKI-HOW-ES... NUM_ARTICLES: 125
+Page 2 in category Deportes from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Deportes from WIKI-HOW-ES... NUM_ARTICLES: 8
+>>> Total: 235
+
+Page 1 in category Días-de-fiesta-y-tradiciones from WIKI-HOW-ES... NUM_ARTICLES: 102
+>>> Total: 102
+
+Page 1 in category En-el-trabajo from WIKI-HOW-ES... NUM_ARTICLES: 131
+Page 2 in category En-el-trabajo from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category En-el-trabajo from WIKI-HOW-ES... NUM_ARTICLES: 29
+>>> Total: 262
+
+Page 1 in category En-la-casa-y-el-jardín from WIKI-HOW-ES... NUM_ARTICLES: 140
+Page 2 in category En-la-casa-y-el-jardín from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category En-la-casa-y-el-jardín from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category En-la-casa-y-el-jardín from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category En-la-casa-y-el-jardín from WIKI-HOW-ES... NUM_ARTICLES: 102
+>>> Total: 548
+
+Page 1 in category Filosofía-y-religión from WIKI-HOW-ES... NUM_ARTICLES: 143
+Page 2 in category Filosofía-y-religión from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Filosofía-y-religión from WIKI-HOW-ES... NUM_ARTICLES: 70
+>>> Total: 315
+
+Page 1 in category Finanzas-y-negocios from WIKI-HOW-ES... NUM_ARTICLES: 151
+Page 2 in category Finanzas-y-negocios from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Finanzas-y-negocios from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Finanzas-y-negocios from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Finanzas-y-negocios from WIKI-HOW-ES... NUM_ARTICLES: 69
+>>> Total: 526
+
+Page 1 in category Mascotas-y-animales from WIKI-HOW-ES... NUM_ARTICLES: 135
+Page 2 in category Mascotas-y-animales from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Mascotas-y-animales from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Mascotas-y-animales from WIKI-HOW-ES... NUM_ARTICLES: 34
+>>> Total: 373
+
+Page 1 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 156
+Page 2 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 6 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 7 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 8 in category Pasatiempos from WIKI-HOW-ES... NUM_ARTICLES: 51
+>>> Total: 819
+
+Page 1 in category Relaciones from WIKI-HOW-ES... NUM_ARTICLES: 147
+Page 2 in category Relaciones from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Relaciones from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Relaciones from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Relaciones from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 6 in category Relaciones from WIKI-HOW-ES... NUM_ARTICLES: 23
+>>> Total: 578
+
+Page 1 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 147
+Page 2 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 3 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 4 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 5 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 6 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 7 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 8 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 102
+Page 9 in category Salud from WIKI-HOW-ES... NUM_ARTICLES: 17
+>>> Total: 878
+
+Page 1 in category Viajes from WIKI-HOW-ES... NUM_ARTICLES: 125
+Page 2 in category Viajes from WIKI-HOW-ES... NUM_ARTICLES: 47
+>>> Total: 172
+
+Page 1 in category Vida-familiar from WIKI-HOW-ES... NUM_ARTICLES: 122
+Page 2 in category Vida-familiar from WIKI-HOW-ES... NUM_ARTICLES: 58
+>>> Total: 180
+
+TOTAL ARTICLES WIKIHOW-ES: 8,363
