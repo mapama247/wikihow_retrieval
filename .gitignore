@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__/
+__pypackages__/
+*.lock
+es.wikihow.com/
+output/
